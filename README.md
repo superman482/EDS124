@@ -5,4 +5,6 @@
 
 [Teaching Programming Portfolio](https://youtu.be/BI8CaR1yNJg)
 
+[Nested Repeats Explanation Video](https://youtu.be/Z24gu37CpbE)
+
 [Events Explanation Video](https://youtu.be/fOuvj_lj6JU)
