@@ -8,3 +8,5 @@
 [Nested Repeats Explanation Video](https://youtu.be/Z24gu37CpbE)
 
 [Events Explanation Video](https://youtu.be/fOuvj_lj6JU)
+
+[Variables Explanation Video](https://youtu.be/tLJNOijnnzk)
