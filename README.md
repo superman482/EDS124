@@ -10,3 +10,5 @@
 [Events Explanation Video](https://youtu.be/fOuvj_lj6JU)
 
 [Variables Explanation Video](https://youtu.be/tLJNOijnnzk)
+
+[Conditional Loop Explanation Video](https://youtu.be/FVxO5Px3nMo)
