@@ -12,3 +12,5 @@
 [Variables Explanation Video](https://youtu.be/tLJNOijnnzk)
 
 [Conditional Loop Explanation Video](https://youtu.be/FVxO5Px3nMo)
+
+[If and If-Else Statements Explanation Video](https://youtu.be/uw6y-eHTEr0)
