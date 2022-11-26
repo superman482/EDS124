@@ -18,3 +18,5 @@
 [Nested If and If-Else Statements Explanation Video](https://youtu.be/ydHD6fsZ4BU)
 
 [Compound Conditionals Explanation Video](https://youtu.be/42SzU5YBgWI)
+
+[Abstractions Explanation Video](https://youtu.be/HIyNzUZASrk)
