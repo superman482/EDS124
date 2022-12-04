@@ -20,3 +20,5 @@
 [Compound Conditionals Explanation Video](https://youtu.be/42SzU5YBgWI)
 
 [Abstractions Explanation Video](https://youtu.be/HIyNzUZASrk)
+
+[Lists Explanation Video](https://youtu.be/H3pJw73nwxk)
